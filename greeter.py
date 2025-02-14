@@ -1,4 +1,4 @@
-def manin():
-    print('Hello world!')
+def main():
+    print('Hello Data Science!')
 
 main()
